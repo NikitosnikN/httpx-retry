@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "httpx_retry"
+version = "0.1.0"
+description = ""
+authors = ["Nikita Yugov <nikitosnikn@yandex.ru>"]
+license = "MIT"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.7"
+httpx = "^0.17.1"
+
+[tool.poetry.dev-dependencies]
+pytest = "^6.2.2"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
