@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "httpx_retry"
+name = "httpx-retry"
 version = "0.1.0"
 description = ""
 authors = ["Nikita Yugov <nikitosnikn@yandex.ru>"]
